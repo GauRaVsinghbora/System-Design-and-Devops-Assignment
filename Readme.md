@@ -94,7 +94,7 @@ The architecture diagram is available in this repository as:
 `docs/architecture/amazon-ecommerce-architecture.png`
 
 ![Amazon-like e-commerce system
-architecture](docs/architecture/amazon-ecommerce-architecture.png)
+architecture](Amazon_Ecommerce_Architecture.png)
 
 ## Request and Order Flow
 
